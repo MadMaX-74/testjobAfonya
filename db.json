@@ -1,0 +1,161 @@
+{
+    "items": [{
+            "type": "select",
+            "title": "Акция",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "type": "select",
+            "title": "Диаметр",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "type": "select",
+            "title": "Объём",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "type": "select",
+            "title": "Режимы",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "type": "select",
+            "title": "Рабочая температура",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "type": "select",
+            "title": "Размер осн.элемента",
+            "select": {
+                "value1": "item1",
+                "value2": "item2",
+                "value3": "item3",
+                "value4": "item4",
+                "value5": "item5",
+                "value6": "item6",
+                "value7": "item7",
+                "value8": "item8",
+                "value9": "item9"
+            }
+        },
+        {
+            "id": "width",
+            "type": "range",
+            "title": "Ширина, мм",
+            "select": {
+                "value1": "20",
+                "value2": "80"
+            },
+            "range": {
+                "value1": "0",
+                "value2": "100"
+            },
+            "inputs": {
+                "value1": "wd0",
+                "value2": "wd1"
+            }
+        },
+        {
+            "id": "long",
+            "type": "range",
+            "title": "Длинна, мм",
+            "select": {
+                "value1": "50",
+                "value2": "400"
+            },
+            "range": {
+                "value1": "0",
+                "value2": "500"
+            },
+            "inputs": {
+                "value1": "lg0",
+                "value2": "lg1"
+            }
+        },
+        {
+            "id": "deep",
+            "type": "range",
+            "title": "Глубина, мм",
+            "select": {
+                "value1": "50",
+                "value2": "400"
+            },
+            "range": {
+                "value1": "0",
+                "value2": "500"
+            },
+            "inputs": {
+                "value1": "dp0",
+                "value2": "dp1"
+            }
+        },
+        {
+            "id": "weight",
+            "type": "range",
+            "title": "Вес, кг",
+            "select": {
+                "value1": "200",
+                "value2": "1000"
+            },
+            "range": {
+                "value1": "0",
+                "value2": "2000"
+            },
+            "inputs": {
+                "value1": "wg0",
+                "value2": "wg1"
+            }
+        }
+    ]
+}
